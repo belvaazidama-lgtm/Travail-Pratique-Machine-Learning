@@ -1,10 +1,32 @@
+# Environnements virtuels
 .venv/
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
+venv/
 .env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Données et modèles
 data/
 MNIST/
+
+# Résultats Ray Tune
 ray_results/
 results/
+
+# Distribution
+.Python
+build/
+dist/
+develop-eggs/
+*.egg-info/
+
+# Système
 .DS_Store
+Thumbs.db
