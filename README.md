@@ -1,6 +1,5 @@
 # Travail-Pratique-Machine-Learning
 ## Optimisation d'hyperparamètre distribuée implémentation via Optuna/Ray tune
-# Optimisation d’hyperparamètres avec Ray Tune et Optuna
 
 ## 1. Description du projet
 
